@@ -2,6 +2,10 @@
  Click on any link below to start downloading directly.
 
 
+### 📅 2026-04-27 01:38 (IR Time)
+- 📥 **[SlipNet-v2.5.3-lite-release-armeabi-v7a.apk](https://github.com/ConfigWireguard/sandbox/raw/main/dl/SlipNet-v2.5.3-lite-release-armeabi-v7a.apk)**
+
+
 ### 📅 2026-04-27 01:37 (IR Time)
 - 📥 **[SlipNet-v2.5.3-lite-release-arm64-v8a.apk](https://github.com/ConfigWireguard/sandbox/raw/main/dl/SlipNet-v2.5.3-lite-release-arm64-v8a.apk)**
 
