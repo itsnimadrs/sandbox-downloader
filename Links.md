@@ -2,6 +2,10 @@
  Click on any link below to start downloading directly.
 
 
+### 📅 2026-04-28 15:26 (IR Time)
+- 📥 **[v2rayNG_2.1.3_universal.apk](https://github.com/ConfigWireguard/sandbox/raw/main/dl/v2rayNG_2.1.3_universal.apk)**
+
+
 ### 📅 2026-04-28 15:25 (IR Time)
 - 📥 **[v2rayNG_2.1.3_arm64-v8a.apk](https://github.com/ConfigWireguard/sandbox/raw/main/dl/v2rayNG_2.1.3_arm64-v8a.apk)**
 
