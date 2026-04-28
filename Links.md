@@ -2,6 +2,10 @@
  Click on any link below to start downloading directly.
 
 
+### 📅 2026-04-28 10:31 (IR Time)
+- 📥 **[roundsync_v2.6.0-oss-arm64-v8a-release.apk](https://github.com/ConfigWireguard/sandbox/raw/main/dl/roundsync_v2.6.0-oss-arm64-v8a-release.apk)**
+
+
 ### 📅 2026-04-27 01:38 (IR Time)
 - 📥 **[SlipNet-v2.5.3-lite-release-armeabi-v7a.apk](https://github.com/ConfigWireguard/sandbox/raw/main/dl/SlipNet-v2.5.3-lite-release-armeabi-v7a.apk)**
 
