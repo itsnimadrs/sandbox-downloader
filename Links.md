@@ -2,6 +2,10 @@
  Click on any link below to start downloading directly.
 
 
+### 📅 2026-04-28 10:36 (IR Time)
+- 📥 **[roundsync_v2.6.0-oss-armeabi-v7a-release.apk](https://github.com/ConfigWireguard/sandbox/raw/main/dl/roundsync_v2.6.0-oss-armeabi-v7a-release.apk)**
+
+
 ### 📅 2026-04-28 10:32 (IR Time)
 - 📥 **[roundsync_v2.6.0-oss-universal-release.apk.zip](https://github.com/ConfigWireguard/sandbox/raw/main/dl/roundsync_v2.6.0-oss-universal-release.apk.zip)**
 - 📥 **[roundsync_v2.6.0-oss-universal-release.apk.z01](https://github.com/ConfigWireguard/sandbox/raw/main/dl/roundsync_v2.6.0-oss-universal-release.apk.z01)**
