@@ -2,6 +2,12 @@
  Click on any link below to start downloading directly.
 
 
+### 📅 2026-04-28 10:32 (IR Time)
+- 📥 **[roundsync_v2.6.0-oss-universal-release.apk.zip](https://github.com/ConfigWireguard/sandbox/raw/main/dl/roundsync_v2.6.0-oss-universal-release.apk.zip)**
+- 📥 **[roundsync_v2.6.0-oss-universal-release.apk.z01](https://github.com/ConfigWireguard/sandbox/raw/main/dl/roundsync_v2.6.0-oss-universal-release.apk.z01)**
+- 📥 **[roundsync_v2.6.0-oss-universal-release.apk.zip](https://github.com/ConfigWireguard/sandbox/raw/main/dl/roundsync_v2.6.0-oss-universal-release.apk.zip)**
+
+
 ### 📅 2026-04-28 10:31 (IR Time)
 - 📥 **[roundsync_v2.6.0-oss-arm64-v8a-release.apk](https://github.com/ConfigWireguard/sandbox/raw/main/dl/roundsync_v2.6.0-oss-arm64-v8a-release.apk)**
 
